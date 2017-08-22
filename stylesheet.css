@@ -1,0 +1,64 @@
+﻿body {
+}
+#tableDiv {
+    position: relative;
+    top: -121px;
+    left: 292px;
+    width: 880px;
+    height: 363px;
+}
+
+#calDiv {
+    position: relative;
+    top: 94px;
+    left: 1px;
+    width: 264px;
+}
+#calDiv {
+    text-align: center;
+}
+#header {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    top: -569px;
+    left: 3px;
+}
+#legDiv {
+    position: relative;
+    top: -356px;
+    left: 885px;
+    width: 141px;
+    height: 364px;
+    margin-top: 0px;
+}
+#pic {
+    position: relative;
+    top: 354px;
+    left: -268px;
+    background: red;
+    width: 155px;
+}
+#pic2 {
+
+    background: lawngreen;
+}
+#Button1 {
+    position: relative;
+    width: 190px;
+}
+#green {
+    background-color: green;
+    position: relative;
+    top: 33px;
+    left: 22px;
+    width: 35px;
+    height: 35px;
+}
+
+.Table1.buttons {
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    border-radius: 15px; 
+}
